@@ -1,2 +1,2 @@
-# gb
-A dictionary based file system back end.
+# DBFS 
+A database dictionary based file system back end.
